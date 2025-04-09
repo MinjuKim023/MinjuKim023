@@ -52,13 +52,5 @@
 ## 📫 Let’s Connect
 - 🌐 [minjukim023.com](https://www.minjukim023.com/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/minjukim023/)  
-- 📧 Email: minjukim@iu.edu
-
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinjuKim023&show_icons=true&theme=graywhite&hide_title=true&hide_border=true&count_private=true" alt="Minju's GitHub stats" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjuKim023&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" width="350" />
-</div>
