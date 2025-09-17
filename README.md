@@ -19,12 +19,6 @@
 - 🥈 **2nd Place @ Luddy Hackathon 2025**  
   *EvacSim: Real-time Evacuation Simulation with AI Drones & React Dashboard*
 
-- 🧪 **Algae Classification with ResNet & U-Net**  
-  *Partnered with City of Bloomington to improve water quality at Monroe Lake*
-
-- 🍏 **Apple Siri Data Annotator (Korean)**  
-  *Annotated 370+ samples/day to fine-tune Siri for Korean-speaking users*
-
 ---
 
 ## ⚙️ Tech Stack
