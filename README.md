@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Minju Kim
-
-🎓 MS in Data Science @ Indiana University Bloomington  
+ 
 🔬 Research Data Scientist @ Cognitive Development Lab (Psych & Brain Sciences)  
-💡 Passionate about AI, Computer Vision, GenAI, LLM, and AI Agent
+🎓 MS in Data Science @ Indiana University Bloomington 
+💡 Exploring the intersection of AI, Computer Vision, and human cognitive development.
  
 > “Any sufficiently advanced technology is indistinguishable from magic.” – Arthur C. Clarke
 
