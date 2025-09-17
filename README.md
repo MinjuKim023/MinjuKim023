@@ -9,8 +9,8 @@
 ---
 
 ## 💼 Current Work
-- 📊 Analyzing 100K+ egocentric baby images to study visual development  
-- 🧠 Measuring visual clutter using GIST descriptors & feature congestion  
+- 📊 Analyzing 500K+ egocentric baby images to study visual development  
+- 🧠 Measuring visual clutter using ML models and quantitative measures
 - 🤖 Exploring how AI models learn to see the world with limited data  
 
 ---
