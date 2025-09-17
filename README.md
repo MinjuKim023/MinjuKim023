@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Minju Kim
  
-🔬 Research Data Scientist @ Cognitive Development Lab (Psych & Brain Sciences)  
+🔬 Research Data Scientist @ Cognitive Development Lab (Indiana University Bloomington Department of Psychological and Brain Sciences)  
 🎓 MS in Data Science @ Indiana University Bloomington 
 💡 Exploring the intersection of AI, Computer Vision, and human cognitive development.
  
