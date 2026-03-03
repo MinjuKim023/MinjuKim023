@@ -10,9 +10,7 @@
 ---
 
 ## 💼 Current Work
-- 📊 Analyzing 500K+ egocentric baby images to study visual development  
-- 🧠 Measuring visual clutter using ML models and quantitative measures
-- 🤖 Exploring how AI models learn to see the world with limited data  
+- I'm briding Cognitive Developmental Science with Computer Vision
 
 ---
 
