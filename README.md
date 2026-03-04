@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-minjukim023.com-black?style=flat-square&logo=safari&logoColor=white)](https://www.minjukim023.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-minjukim023-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjukim023/)
-[![Email](https://img.shields.io/badge/Email-minjukim023@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:minjukim023@gmail.com)
 
 ---
 
